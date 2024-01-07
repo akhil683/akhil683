@@ -9,7 +9,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer
 ------------------
 
-I love code !
+Tum mujhe design do, Ma tumhe code dunga 😃!
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [My Portfolio](http://akhilpalsra.netlify.app)
