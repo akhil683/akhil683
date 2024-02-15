@@ -14,9 +14,9 @@ I love coffee☕!
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [My Portfolio](http://akhilpalsra.netlify.app)
 * ✉️  You can contact me at [akhilpalsra@gmail.com](mailto:akhilpalsra@gmail.com)
-* 🚀  I'm currently working on [College Club Website](https://nith-hermetica.vercel.app)
-* 🧠  I'm learning Typescript and Next.js
-* 🤝  I'm open to collaborating on interesting web development projects.
+* 🚀  Currently working on [College Club Website](https://nith-hermetica.vercel.app)
+* 🧠  Learning Typescript and Next.js
+* 🤝  Open to collaborating on interesting web development projects.
 * ⚡  I love music and typing
 
 ### Skills
