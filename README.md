@@ -9,9 +9,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer
 ------------------
 
-I love chaii☕!
+I love Vim Motion🚀!
 
-* 🌍  I'm based in India
+* 🌍  Based in India
 * 🖥️  See my portfolio at [My Portfolio](http://akhilpalsra.netlify.app)
 * ✉️  You can contact me at [akhilpalsra@gmail.com](mailto:akhilpalsra@gmail.com)
 * 🚀  Currently working on [College Club Website](https://nith-hermetica.vercel.app)
