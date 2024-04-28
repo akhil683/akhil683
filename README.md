@@ -14,7 +14,7 @@ I love Vim Motion🚀!
 * 🌍  Based in India
 * 🖥️  See my portfolio at [My Portfolio](http://akhilpalsra.netlify.app)
 * ✉️  You can contact me at [akhilpalsra@gmail.com](mailto:akhilpalsra@gmail.com)
-* 🚀  Currently working on [College Club Website](https://nith-hermetica.vercel.app)
+* 🚀  Currently working on - Attendance App & its website
 * 🧠  Learning Typescript and Next.js
 * 🤝  Open to collaborating on interesting web development projects.
 * ⚡  I love music and typing
