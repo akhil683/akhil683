@@ -9,12 +9,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer
 ------------------
 
-I love Vim Motion🚀!
+I love NeoVim🚀!
 
 * 🌍  Based in India
-* 🖥️  See my portfolio at [My Portfolio](http://akhilpalsra.netlify.app)
+* 🖥️  See my portfolio at [My Portfolio](http://akhilpalsra.vercel.app)
 * ✉️  You can contact me at [akhilpalsra@gmail.com](mailto:akhilpalsra@gmail.com)
-* 🚀  Currently working on - Attendance App & its website
+* 🚀  Currently working on - Adventure-Camp & Attendance App
 * 🧠  Learning Typescript and Next.js
 * 🤝  Open to collaborating on interesting web development projects.
 * ⚡  I love music and typing
