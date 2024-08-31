@@ -14,8 +14,7 @@ I love NeoVim🚀!
 * 🌍  Based in India
 * 🖥️  See my portfolio at [My Portfolio](http://akhilpalsra.vercel.app)
 * ✉️  You can contact me at [akhilpalsra@gmail.com](mailto:akhilpalsra@gmail.com)
-* 🚀  Currently working on - Adventure-Camp & Attendance App
-* 🧠  Learning Typescript and Next.js
+* 🧠  Learning React Native and NextJS
 * 🤝  Open to collaborating on interesting web development projects.
 * ⚡  I love music and typing
 
@@ -44,7 +43,7 @@ I love NeoVim🚀!
 </p>
 
 <a> 
-    <a href="https://github.com/akhil683"><img alt="Akhill's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=akhil683&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+<!--     <a href="https://github.com/akhil683"><img alt="Akhill's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=akhil683&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a> -->
   <a href="https://github.com/akhil683"><img alt="Akhil's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=akhil683&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
