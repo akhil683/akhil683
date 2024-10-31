@@ -12,10 +12,9 @@ Frontend Developer
 I love NeoVim🚀!
 
 * 🌍  Based in India
-* 🖥️  See my portfolio at [My Portfolio](http://akhilpalsra.vercel.app)
 * ✉️  You can contact me at [akhilpalsra@gmail.com](mailto:akhilpalsra@gmail.com)
-* 🧠  Learning React Native and NextJS
-* 🤝  Open to collaborating on interesting web development projects.
+* 🧠  Learning React Native, NextJS and Go
+* 🤝  Open to collaborating on interesting projects.
 * ⚡  I love music and typing
 
 ### Skills
