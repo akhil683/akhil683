@@ -5,8 +5,6 @@
 Software Developer
 
 Terminal and Neovim are my happy places 🚀! <br />
-Based in India <br />
 I love music, travelling and typing <br />
 
 Mail --> hello@akkhil.dev <br />
-Checkout my portfolio --> [akkhil.dev](https://akkhil.dev)
